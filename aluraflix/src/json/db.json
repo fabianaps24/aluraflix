@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "ZY3-MFxVdEw",
+      "categoria": "FRONT END",
+      "titulo": "O que faz uma desenvolvedora Front End?",
+      "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "descricao": "O que é Front-end?"
+    },
+    {
+      "id": "R490hggkCEA",
+      "titulo": "O que é Front End?",
+      "imagem": "https://img.youtube.com/vi/R490hggkCEA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=R490hggkCEA",
+      "categoria": "FRONT END",
+      "descricao": "O que é cada uma dessas áreas de conhecimento?"
+    },
+    {
+      "id": "LDU4BCSxPp4",
+      "titulo": "Qual é a principal diferença entre Front End e Back End?",
+      "imagem": "https://img.youtube.com/vi/LDU4BCSxPp4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LDU4BCSxPp4",
+      "categoria": "FRONT END",
+      "descricao": "Descubra as nuances das stacks tecnológicas e a diferença fundamental entre Front End e Back End neste vídeo!"
+    },
+    {
+      "id": "fiPfvylj6rk",
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+      "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "categoria": "BACK END",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? "
+    },
+    {
+      "id": "PV9FoHvVE8k",
+      "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa",
+      "imagem": "https://img.youtube.com/vi/PV9FoHvVE8k/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+      "categoria": "BACK END",
+      "descricao": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android."
+    },
+    {
+      "id": "uyRDbGZG92E",
+      "titulo": "JavaScript para back-end",
+      "imagem": "https://img.youtube.com/vi/uyRDbGZG92E/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uyRDbGZG92E",
+      "categoria": "BACK END",
+      "descricao": "No Hipsters.Talks vamos conversar sobre a utilização de JavaScript para back-end."
+    },
+    {
+      "id": "2z6f8VN_Pro",
+      "titulo": "Desmistificando Mobile- Por onde eu começo?",
+      "imagem": "https://img.youtube.com/vi/2z6f8VN_Pro/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2z6f8VN_Pro",
+      "categoria": "MOBILE",
+      "descricao": "Tem série nova no canal"
+    },
+    {
+      "id": "fmu1LQvZhms",
+      "titulo": "Desmitificando Mobile Ep#2",
+      "imagem": "https://img.youtube.com/vi/fmu1LQvZhms/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fmu1LQvZhms",
+      "categoria": "MOBILE",
+      "descricao": "Segundo episódio no ar!"
+    },
+    {
+      "id": "9V48oXZdXgQ",
+      "titulo": "Nativos: Android e iOS | Desmistificando Mobile Ep#3",
+      "imagem": "https://img.youtube.com/vi/9V48oXZdXgQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9V48oXZdXgQ",
+      "categoria": "MOBILE",
+      "descricao": "Como fazer meu primeiro app."
+    }
+  ]
+}

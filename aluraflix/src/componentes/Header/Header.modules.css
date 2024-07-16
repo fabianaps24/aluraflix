@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 80px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--darkGray);
+  border-bottom: 2px solid var(--blue);
+  box-shadow: 0 0 1px var(--blue), 0 0 2px var(--blue), 0 0 5px var(--blue),
+    0 0 7px var(--blue);
+}
+
+.logo {
+  width: 168px;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
